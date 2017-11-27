@@ -1,9 +1,0 @@
-/usr/local/google/home/dslomov/work/experiments/wrkspc/main/zzz
-dir: /usr/local/google/home/dslomov/.cache/bazel/_bazel_dslomov/33196524570d6a6bed1b0f9825078763/execroot/google_dslomov_main/bazel-out/host/bin/src/tryme.runfiles/google_dslomov_main
-.
-./data
-./data/data.txt
-./src
-./src/tryme
-./tools
-./tools/tryme.sh
