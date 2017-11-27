@@ -1,4 +1,7 @@
 workspace(name = "google_dslomov_main")
 
-local_repository(name = "other_repo",
+#local_repository(name = "other_repo",
+#                 path = "/usr/local/google/home/dslomov/work/experiments/wrkspc/repo")
+
+local_repository(name = "google_dslomov_repo",
                  path = "/usr/local/google/home/dslomov/work/experiments/wrkspc/repo")
